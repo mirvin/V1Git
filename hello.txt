@@ -1,6 +1,11 @@
-This cool 
+TThis cool 
 ng needs ot be updated man!!
+<<<<<<< HEAD
 aginsdf
 This is annoying but a change
 An new change
 Add for the nex
+=======
+ginsdf
+This is the master file
+>>>>>>> FETCH_HEAD
