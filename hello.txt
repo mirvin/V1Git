@@ -11,3 +11,4 @@ This is the master file
 >>>>>>> FETCH_HEAD
 asdf
 Huh?
+more
